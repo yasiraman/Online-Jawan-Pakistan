@@ -1,0 +1,9 @@
+*{ 
+    margin: 0;
+}
+body{
+    background-color: rgb(154, 92, 205);
+}
+h1,p{
+    background-color: hotpink;
+}
